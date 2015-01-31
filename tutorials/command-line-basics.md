@@ -1,4 +1,7 @@
 # Navigating the command line
+Originally written by Chase Davis, Jackie Kazil, Matt Wynn and myself for the [IRE Web Scraping workshop](https://github.com/ireapps/first-web-scraper/), but is no longer published there.
+
+---
 
 Working with Python (and pretty much any other programming language) means becoming comfortable with your computer's command line environment. If you haven't seen it before, it looks something like this:
 
