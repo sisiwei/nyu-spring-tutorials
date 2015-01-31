@@ -1,18 +1,10 @@
 # Week 1 - Github and the Command Line
 We might not get through everything, but we'll get as far as we can.
 
-## Meta
-
 ### What You'll Learn
 * How to use the command line to execute some basic commands on your computer
 * How to publish up a website you made from scratch using Github pages
 * How to follow the same workflow as professional developers when coding (and why they do things this way)
-
-### External Resources
-Missed the session or want a quick refresher? Here are some tutorials that cover most of what we'll be talking about in class:
-
-* [https://try.github.io](https://try.github.io)
-* [Command line basics](tutorials/command-line-basics.md)
 
 ## Today's Session
 
@@ -65,4 +57,6 @@ git checkout gh-pages
 git push origin gh-pages
 ```
 
-What else is possible? [Github's excellent cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
+What else is possible? [Github's excellent cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf). They also have a [tutorial](https://try.github.io).
+
+But before we try any of these commands themselves, we need to know some [Command line basics](tutorials/command-line-basics.md).
