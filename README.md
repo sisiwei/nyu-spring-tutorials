@@ -9,19 +9,19 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 
 | Session | Tutorial |
 | --- | --- |
-| Feb. 8 | [#1 Github and the Command Line](week1.md) |
-| Feb. 15 | #2 TBD |
-| Feb. 22 | #3 TBD |
-| March 1 | #4 TBD |
+| Feb. 8 | [Github and the Command Line](week1.md) |
+| Feb. 15 | TBD |
+| Feb. 22 | TBD |
+| March 1 | TBD |
 | *March 8* | *No Session* |
-| March 15 | #5 TBD |
+| March 15 | TBD |
 | *March 22* | *No Session* |
-| March 29 | #6 TBD |
-| April 5 | #7 TBD |
+| March 29 | TBD |
+| April 5 | TBD |
 | *April 12* | *No Session* |
-| April 19 | #8 TBD |
-| April 26 | #9 TBD |
-| May 3 | #10 |
+| April 19 | TBD |
+| April 26 | TBD |
+| May 3 | TBD |
 
 ## License
 If you are interested in using any of these course materials for another class or workshop, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
