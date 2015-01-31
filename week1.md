@@ -47,9 +47,27 @@ __What is Github?__
 
 __How does Github work exactly?__
 
+Four basic commands to sync the code on our computer to the repository hosted on Github:
+
 ```
 git status
 git add .
 git commit -m "Updated design"`
 git push
 ```
+
+Creating 'branches' and using a branch called 'gh-pages' to create our own website.
+
+```
+git branch
+git branch gh-pages
+git checkout gh-pages
+git push origin gh-pages
+```
+
+
+
+
+
+
+Want more? [Github's excellent cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
