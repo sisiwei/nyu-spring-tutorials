@@ -18,9 +18,8 @@ Missed the session or want a quick refresher? Here are some tutorials that cover
 
 ### Installs and Account Creation
 
-Create a new account on Github.
-
-Install and setup Git and SSH Keys.
+1. Create a new account on [Github](https://github.com).
+2. Install and setup Git and SSH Keys.
     * Git: https://help.github.com/articles/set-up-git/
     * SSH: https://help.github.com/articles/generating-ssh-keys/
 
