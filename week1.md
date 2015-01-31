@@ -19,18 +19,19 @@ Missed the session or want a quick refresher? Here are some tutorials that cover
 ### Installs and Account Creation
 
 Create a new account on Github.
+
 Install and setup Git and SSH Keys.
-    Git: https://help.github.com/articles/set-up-git/
-    SSH: https://help.github.com/articles/generating-ssh-keys/
+    * Git: https://help.github.com/articles/set-up-git/
+    * SSH: https://help.github.com/articles/generating-ssh-keys/
 
 ### Git vs. Github
 
 __What is Git?__
     * Version control for coders
-        - Why do coders need version control?
-            + Sometimes your code just breaks and you need to go back
-            + Collaboration
-            + Think of it like "track changes" or "revision history"
+        * Why do coders need version control?
+            * Sometimes your code just breaks and you need to go back
+            * Collaboration
+            * Think of it like "track changes" or "revision history"
 
 __What is Github?__
     * Graphical web service that helps people use git, plus some other nice features
