@@ -26,11 +26,11 @@ Missed the session or want a quick refresher? Here are some tutorials that cover
 ### Git vs. Github
 
 __What is Git?__
-    * Version control for coders
-        * Why do coders need version control?
-            * Sometimes your code just breaks and you need to go back
-            * Collaboration
-            * Think of it like "track changes" or "revision history"
+   * Version control for coders
+      * Why do coders need version control?
+         * Sometimes your code just breaks and you need to go back
+         * Collaboration
+         * Think of it like "track changes" or "revision history"
 
 __What is Github?__
     * Graphical web service that helps people use git, plus some other nice features
