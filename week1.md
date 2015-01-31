@@ -26,29 +26,30 @@ Missed the session or want a quick refresher? Here are some tutorials that cover
 ### Git vs. Github
 
 __What is Git?__
-   * Version control for coders
-      * Why do coders need version control?
-         * Sometimes your code just breaks and you need to go back
-         * Collaboration
-         * Think of it like "track changes" or "revision history"
+  * Version control for coders
+    * Why do coders need version control?
+      * Sometimes your code just breaks and you need to go back
+      * Collaboration
+      * Think of it like "track changes" or "revision history"
 
 __What is Github?__
-    * Graphical web service that helps people use git, plus some other nice features
-    * Why would anyone use it?
-        - Creators:
-            - Version control
-            - Collaboration
-            - Sharing with the world
-            - Free web hosting
-            - Project management extras (issues, milestones, etc.)
-        - Users:
-            - Access open-source projects and libraries
-            - Contribute to projects online (pull request)
-    * How does Github work exactly?
-        - `git status`
-        - `git add .`
-        - `git commit -m "Updated design"`
-        - `git push`
-    * Using the Github web interface to make a website from scratch.
-        - Create a new HTMl file
-        - Create a new branch called gh-pages
+  * Graphical web service that helps people use git, plus some other nice features
+  * Why would anyone use it?
+    * Creators:
+      * Version control
+      * Collaboration
+      * Sharing with the world
+      * Free web hosting
+      * Project management extras (issues, milestones, etc.)
+    * Users:
+      * Access open-source projects and libraries
+      * Contribute to projects online (pull request)
+
+__How does Github work exactly?__
+
+```
+git status
+git add .
+git commit -m "Updated design"`
+git push
+```
