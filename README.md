@@ -9,7 +9,7 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 
 | Session | Tutorial |
 | --- | --- |
-| Feb. 8 | #1 Github, Github Pages & Git |
+| Feb. 8 | [#1 Github and the Command Line](week1.md) |
 | Feb. 15 | #2 TBD |
 | Feb. 22 | #3 TBD |
 | March 1 | #4 TBD |
