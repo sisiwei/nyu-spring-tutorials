@@ -14,7 +14,7 @@ Missed the session or want a quick refresher? Here are some tutorials that cover
 * [https://try.github.io](https://try.github.io)
 * [Command line basics](tutorials/command-line-basics.md)
 
-## Workshop
+## Today's Session
 
 ### Installs and Account Creation
 
