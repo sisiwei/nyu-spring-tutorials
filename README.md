@@ -1,10 +1,8 @@
 # 2015 Spring Tutorials
 
-New York University
-Arthur L. Carter Journalism Institute
-Studio 20
-20 Cooper Square, Room 654
-Sundays, 2:00-6:00 p.m.
+New York University, Arthur L. Carter Journalism Institute, Studio 20
+<br/>20 Cooper Square, Room 654
+<br/>Sundays, 2:00-6:00 p.m.
 
 ## Class Schedule
 
@@ -23,5 +21,9 @@ Sundays, 2:00-6:00 p.m.
 | April 19 | #8 |
 | April 26 | #9 |
 | May 3 | #10 |
+
+
+## License
+If you are interested in using any of these course materials for another class or workshop, the license and rules are below.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
