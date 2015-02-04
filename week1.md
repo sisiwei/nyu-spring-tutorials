@@ -12,8 +12,11 @@ We might not get through everything, but we'll get as far as we can.
 
 1. Create a new account on [Github](https://github.com).
 2. Install and setup Git and SSH Keys.
-    * Git: https://help.github.com/articles/set-up-git/
-    * SSH: https://help.github.com/articles/generating-ssh-keys/
+    * Mac:
+       * Git: https://help.github.com/articles/set-up-git/
+       * SSH: https://help.github.com/articles/generating-ssh-keys/
+    * Windows:
+       * https://windows.github.com/
 
 ### Git vs. Github
 
