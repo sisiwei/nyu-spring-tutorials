@@ -69,4 +69,57 @@ git push origin gh-pages
 
 What else is possible? [Github's excellent cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf). They also have a [tutorial](https://try.github.io).
 
+### Command Line Basics
+
 But before we try any of these commands themselves, we need to know some [Command line basics](tutorials/command-line-basics.md).
+
+<table>
+    <tr>
+        <th>Command</th>
+        <th>Example</th>
+        <th>What it does</th>
+        <th>Notes</th>
+    </tr>
+    <tr>
+        <td>pwd</td>
+        <td>pwd</td>
+        <td>Shows your present working directory</td>
+        <td>Useful for keeping track of where you are</td>
+    </tr>
+    <tr>
+        <td>ls</td>
+        <td>ls</td>
+        <td>Shows the contents of the current directory</td>
+        <td>Can also use ls -a or ls -l to show more information about files</td>
+    </tr>
+    <tr>
+        <td>cd</td>
+        <td>cd Desktop</td>
+        <td>Changes directories</td>
+        <td>Use cd ..``` to move backwards</td>
+    </tr>
+    <tr>
+        <td>mkdir</td>
+        <td>mkdir new-directory</td>
+        <td>Creates a new directory</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>touch</td>
+        <td>touch test.py</td>
+        <td>Creates a new file</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>mv</td>
+        <td>mv test.py ./Desktop</td>
+        <td>This isn't covered above, but mv moves or renames a file.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>rm</td>
+        <td>rm test.py</td>
+        <td>Deletes a file</td>
+        <td>Use with extreme caution. Once a file is deleted this way, you can't get it back.</td>
+    </tr>
+</table>
