@@ -123,3 +123,8 @@ But before we try any of these commands themselves, we need to know some [Comman
         <td>Use with extreme caution. Once a file is deleted this way, you can't get it back.</td>
     </tr>
 </table>
+
+Sublime Command Line shortcut setup
+```
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```
