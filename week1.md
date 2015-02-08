@@ -40,6 +40,13 @@ __What is Github?__
       * Access open-source projects and libraries
       * Contribute to projects online (pull request)
 
+__Who uses it?__
+- [NYTimes](https://github.com/nytimes/)
+- [Washington Post](https://github.com/washingtonpost)
+- [Propublica](https://github.com/propublica)
+- [Quartz](https://github.com/quartz)
+- [WNYC](https://github.com/wnyc)
+
 __How does Github work exactly?__
 
 Four basic commands to sync the code on our computer to the repository hosted on Github
