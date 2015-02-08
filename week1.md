@@ -8,16 +8,6 @@ We might not get through everything, but we'll get as far as we can.
 
 ## Today's Session
 
-### Installs and Account Creation
-
-1. Create a new account on [Github](https://github.com).
-2. Install and setup Git and SSH Keys.
-    * Mac:
-       * Git: https://help.github.com/articles/set-up-git/
-       * SSH: https://help.github.com/articles/generating-ssh-keys/
-    * Windows:
-       * https://windows.github.com/
-
 ### Git vs. Github
 
 __What is Git?__
@@ -46,6 +36,16 @@ __Who uses it?__
 - [Propublica](https://github.com/propublica)
 - [Quartz](https://github.com/quartz)
 - [WNYC](https://github.com/wnyc)
+
+### Installs and Account Creation
+
+1. Create a new account on [Github](https://github.com).
+2. Install and setup Git and SSH Keys.
+    * Mac:
+       * Git: https://help.github.com/articles/set-up-git/
+       * SSH: https://help.github.com/articles/generating-ssh-keys/
+    * Windows:
+       * https://windows.github.com/
 
 __How does Github work exactly?__
 
