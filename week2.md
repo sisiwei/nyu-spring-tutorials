@@ -4,7 +4,7 @@ After Zoe's HTML/CSS workshop, let's dig deeper into what you can do with CSS an
 Quick announcement: I'm planning on splitting our time together in half. 2 hours of demos/new information, 2 hours of help on any interactive work you want to do in your studio classes.
 
 ### What You'll Learn
-* How to use the Inspector
+* How to use the Web Inspector
 * How to use CSS floats and the mysterious clearfix.
 * How to make your own layouts
 
@@ -47,15 +47,35 @@ For more information on the inspector:
 - [Text tutorial](http://code.tutsplus.com/tutorials/chrome-dev-tools-markup-and-style--net-27149)
 - [Official Chrome page](https://developer.chrome.com/devtools)
 
-### Review
+### CSS Floats
+
+#### HTML/CSS Review
+
+- Simple HTML review: 
+    + Create a new HTML file and copy: http://jsfiddle.net/kJHdt/86/light/
+    + Use HTML to markup the article
+- CSS review:
+    + Setup an external CSS stylesheet
+    + Style your HTML with the rules below:
+        + Make the main headline dark green.
+        + Use the font family "Georgia" for the main headline and the subheadline.
+        + Center the text of the main headline and the subheadline.
+        + Make the paragraphs have a line height of 19 pixels.
+        + Remove the underline from the links.
+        + Make the "You might also like" label all uppercase.
+        + Make an underline appear when you hover over a link. 
+
+
+- CSS Box Model
+    + Demo: http://sports.espn.go.com/espn/grantland/story/_/id/9175394/out-great-alone
+    + Exercise: Let's draw some boxes
 - On the CSS Box Model: [Box Model Ninja](http://codewithme.us/exercises/box-model-ninja.html)
 
 
-### Clearfix
+#### Clearfix
 
 When we start using the `float` attribute in CSS, we'll run into some problems. Essentially, `float` allows elements to stick out of their parent elements, and if we don't want that behavoir, we have to institute a "clearfix."
 - Read more about [how float actually works](http://complexspiral.com/publications/containing-floats/)
-
 
 There are many, many ways to institute clearfix. My current favorite is [by Nicolas Gallagher](http://nicolasgallagher.com/micro-clearfix-hack/).
 
