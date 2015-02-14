@@ -1,5 +1,7 @@
-# Week 2 - CSS and Layouts
+# Week 2 - Inspector, CSS and Layouts
 After Zoe's HTML/CSS workshop, let's dig deeper into what you can do with CSS and make a few layouts.
+
+Quick announcement: I'm planning on splitting our time together in half. 2 hours of demos/new information, 2 hours of help on any interactive work you want to do in your studio classes.
 
 ### What You'll Learn
 * How to use the Inspector
