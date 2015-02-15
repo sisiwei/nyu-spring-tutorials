@@ -78,17 +78,14 @@ For more information on the inspector:
 
 ### CSS Floats
 
-How any HTML element is able to be "floated" to the left or right of something else. What is a float?
+How any HTML element is able to be "floated" to the left or right of something else. What is a `float`? The ability to:
 
-Moving an element to the left or right of the main text:
-<img src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/7_webfloat.png">
+- Moving an element to the left or right of the main text:
+- Moving elements side-by-side.
 
-Moving elements side-by-side:
-<img width="500px" border="1" src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/pinterest.png">
+There are only two options: `float: left;` and `float:right;`.
 
 Exercise: http://jsfiddle.net/qt77z/2/light/
-
-<img width="500px" border="1" src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
 
 #### Clearfix
 
@@ -109,11 +106,21 @@ There are many, many ways to institute clearfix. My current favorite is [by Nico
 }
 ```
 
-### Example Portfolio Layouts
+Once you add this to your CSS, you can just add the class "cf" to any element that needs a clearfix, like so:
 
-http://lenagroeger.com/
-http://shancarter.com/
-http://bost.ocks.org/mike/
+```
+<div class="container cf">
+    <img src="example.jpg" style="float:left;">
+    <img src="example.jpg" style="float:left;">
+</div>
+```
+
+### Example Portfolio Layouts
+Try to re-create any of these layouts from scratch, using your own name and content. Feel free to pick your own fonts and colors, but the layouts must be the same.
+
+- http://lenagroeger.com/
+- http://shancarter.com/
+- http://bost.ocks.org/mike/
 
 
 
