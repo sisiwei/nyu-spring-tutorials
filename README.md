@@ -10,8 +10,8 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 | Session | Tutorial |
 | --- | --- |
 | Feb. 8 | [Github and the Command Line](week1.md) |
-| Feb. 15 | [Inspector, CSS and Layouts](week2.md) |
-| Feb. 22 | TBD |
+| Feb. 15 | [Inspector, CSS and Boxes](week2.md) |
+| Feb. 22 | [CSS Floats, Layout](week3.md) |
 | March 1 | TBD |
 | __March 8__ | __No Session__ |
 | March 15 | TBD |

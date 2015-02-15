@@ -1,14 +1,13 @@
 # Week 2 - Inspector, CSS and Layouts
-After Zoe's HTML/CSS workshop, let's dig deeper into what you can do with CSS and make a few layouts.
 
-Quick announcement: I'm planning on splitting our time together in half. Roughly 2 hours of demos/new information, and roughly 2 hours of lab time on any interactive work you want to do in your studio classes. During the second half of our workshops we can go off in any direction pertaining to a project you're working on.
+Quick announcement: I'm planning on splitting our time together in half. Roughly 2-3 hours of demos/new information, and roughly 1-2 hours of lab time on any interactive work you want to do in your studio classes. During the second half of our workshops we can go off in any direction pertaining to a project you're working on.
 
-Question: Spring Break, March 15th off or 22nd off?
+Also, we have no session on March 15th, instead of March 22nd.
 
 ### What You'll Learn
 * How to use the Web Inspector
-* How to use CSS floats and the mysterious clearfix.
-* How to make your own layouts
+* HTML and CSS Review
+* Why the Internet is Made Out of Boxes
 
 ## Today's Session
 
@@ -70,60 +69,14 @@ For more information on the inspector:
         + Make the "You might also like" label all uppercase.
         + Make an underline appear when you hover over a link. 
 
-- CSS Box Model
-    + Demo: http://sports.espn.go.com/espn/grantland/story/_/id/9175394/out-great-alone
-    + Exercise: Let's draw some boxes
+### Why the Internet is Made Out of Boxes
+
+    - Demo: http://sports.espn.go.com/espn/grantland/story/_/id/9175394/out-great-alone
+    - Exercise: Let's draw some boxes
         * Pick any news website you'd like
         * Print it out
         * Physically draw the boxes on top
-    + On the CSS Box Model: [Box Model Ninja](http://codewithme.us/exercises/box-model-ninja.html)
-
-### CSS Floats
-
-How any HTML element is able to be "floated" to the left or right of something else. What is a `float`? The ability to:
-
-- Moving an element to the left or right of the main text:
-- Moving elements side-by-side.
-
-There are only two options: `float: left;` and `float:right;`.
-
-Exercise: http://jsfiddle.net/qt77z/2/light/
-
-#### Clearfix
-
-When we start using the `float` attribute in CSS, we'll run into some problems. Essentially, `float` allows elements to stick out of their parent elements, and if we don't want that behavoir, we have to institute a "clearfix."
-- Read more about [how float actually works](http://complexspiral.com/publications/containing-floats/)
-
-There are many, many ways to institute clearfix. My current favorite is [by Nicolas Gallagher](http://nicolasgallagher.com/micro-clearfix-hack/).
-
-```
-.cf:before,
-.cf:after {
-    content: " ";
-    display: table;
-}
-
-.cf:after {
-    clear: both;
-}
-```
-
-Once you add this to your CSS, you can just add the class "cf" to any element that needs a clearfix, like so:
-
-```
-<div class="container cf">
-    <img src="example.jpg" style="float:left;">
-    <img src="example.jpg" style="float:left;">
-</div>
-```
-
-### Example Portfolio Layouts
-Try to re-create any of these layouts from scratch, using your own name and content. Feel free to pick your own fonts and colors, but the layouts must be the same.
-
-- http://lenagroeger.com/
-- http://shancarter.com/
-- http://bost.ocks.org/mike/
-
+    - On the CSS Box Model: [Box Model Ninja](http://codewithme.us/exercises/box-model-ninja.html)
 
 
 
