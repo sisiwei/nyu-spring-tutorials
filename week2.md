@@ -3,6 +3,8 @@ After Zoe's HTML/CSS workshop, let's dig deeper into what you can do with CSS an
 
 Quick announcement: I'm planning on splitting our time together in half. Roughly 2 hours of demos/new information, and roughly 2 hours of lab time on any interactive work you want to do in your studio classes. During the second half of our workshops we can go off in any direction pertaining to a project you're working on.
 
+Question: Spring Break, March 15th off or 22nd off?
+
 ### What You'll Learn
 * How to use the Web Inspector
 * How to use CSS floats and the mysterious clearfix.
