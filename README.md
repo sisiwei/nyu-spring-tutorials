@@ -14,8 +14,8 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 | Feb. 22 | TBD |
 | March 1 | TBD |
 | __March 8__ | __No Session__ |
-| March 15 | TBD |
-| __March 22__ | __No Session__ |
+| __March 15__ | __No Session__ |
+| March 22 | TBD |
 | March 29 | TBD |
 | April 5 | TBD |
 | __April 12__ | __No Session__ |
