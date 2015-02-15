@@ -78,11 +78,17 @@ For more information on the inspector:
 
 ### CSS Floats
 
+How any HTML element is able to be "floated" to the left or right of something else. What is a float?
 
+Moving an element to the left or right of the main text:
 <img src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/7_webfloat.png">
 
-<img src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
+Moving elements side-by-side:
+<img src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/pinterest.png">
+
 Exercise: http://jsfiddle.net/qt77z/2/light/
+
+<img style="border: 1px solid #EEE;" src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
 
 #### Clearfix
 
