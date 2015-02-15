@@ -80,10 +80,6 @@ For more information on the inspector:
 
 How any HTML element is able to be "floated" to the left or right of something else. What is a float?
 
-<style>
-    img { border: 1px solid #EEE; }
-</style>
-
 Moving an element to the left or right of the main text:
 <img src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/7_webfloat.png">
 
@@ -92,7 +88,7 @@ Moving elements side-by-side:
 
 Exercise: http://jsfiddle.net/qt77z/2/light/
 
-<img src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
+<img width="500px" src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
 
 #### Clearfix
 
