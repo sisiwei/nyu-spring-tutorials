@@ -84,11 +84,11 @@ Moving an element to the left or right of the main text:
 <img src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/7_webfloat.png">
 
 Moving elements side-by-side:
-<img src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/pinterest.png">
+<img width="500px" border="1" src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/pinterest.png">
 
 Exercise: http://jsfiddle.net/qt77z/2/light/
 
-<img width="500px" src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
+<img width="500px" border="1" src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
 
 #### Clearfix
 
