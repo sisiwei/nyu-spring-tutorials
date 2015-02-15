@@ -24,11 +24,13 @@ The web inspector is avaiable in Chrome, Safari, or Firefox, but we'll be focusi
     + Highlight both code and what it creates on the page
     + Scroll to view elements
     + Ctrl+F within the inspector
+
 - DOM modification
     + Change text
     + Change tags
     + Change attributes
     + Delete anything
+
 - Edit CSS for testing purposes
     + Stylesheet styles
     + Hover styles
@@ -36,8 +38,10 @@ The web inspector is avaiable in Chrome, Safari, or Firefox, but we'll be focusi
     + Built-in color selector
     + Add any new styles on the fly
     + Verify/check CSS hierarchy
+
 - Emulate different screen sizes
     + Mobile, tablet and laptop testing
+
 - Look at resources
 - Inspect cookies
 - Investigate load times
@@ -47,13 +51,12 @@ For more information on the inspector:
 - [Text tutorial](http://code.tutsplus.com/tutorials/chrome-dev-tools-markup-and-style--net-27149)
 - [Official Chrome page](https://developer.chrome.com/devtools)
 
-### CSS Floats
-
-#### HTML/CSS Review
+### HTML/CSS Review
 
 - Simple HTML review: 
     + Create a new HTML file and copy: http://jsfiddle.net/kJHdt/86/light/
     + Use HTML to markup the article
+
 - CSS review:
     + Setup an external CSS stylesheet
     + Style your HTML with the rules below:
@@ -65,12 +68,21 @@ For more information on the inspector:
         + Make the "You might also like" label all uppercase.
         + Make an underline appear when you hover over a link. 
 
-
 - CSS Box Model
     + Demo: http://sports.espn.go.com/espn/grantland/story/_/id/9175394/out-great-alone
     + Exercise: Let's draw some boxes
-- On the CSS Box Model: [Box Model Ninja](http://codewithme.us/exercises/box-model-ninja.html)
+        * Pick any news website you'd like
+        * Print it out
+        * Physically draw the boxes on top
+    + On the CSS Box Model: [Box Model Ninja](http://codewithme.us/exercises/box-model-ninja.html)
 
+### CSS Floats
+
+
+<img src="http://codewithme.us/austin/main-curriculum/images/presentations/combined-layout/7_webfloat.png">
+
+<img src="http://codewithme.us/images/exercises/drought-maps/drought-final.png">
+Exercise: http://jsfiddle.net/qt77z/2/light/
 
 #### Clearfix
 
@@ -91,10 +103,8 @@ There are many, many ways to institute clearfix. My current favorite is [by Nico
 }
 ```
 
-### Great Portfolio Layouts
+### Example Portfolio Layouts
 
-http://charlottetang.com/
-http://bjoernmeier.com/
 http://lenagroeger.com/
 http://shancarter.com/
 http://bost.ocks.org/mike/
