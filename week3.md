@@ -1,4 +1,4 @@
-# Week 2 - CSS Floats, Layout
+# Week 3 - CSS Floats, Layout
 
 ### What You'll Learn
 * How to use CSS floats and the mysterious clearfix.
