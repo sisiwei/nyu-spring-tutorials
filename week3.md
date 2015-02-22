@@ -15,6 +15,8 @@ How any HTML element is able to be "floated" to the left or right of something e
 
 There are only two options: `float: left;` and `float:right;`.
 
+In-class demos: [Just floats](http://codepen.io/anon/pen/Byxzzx) and [Cymbols](http://codepen.io/anon/pen/gbzMLv)
+
 Exercise: http://jsfiddle.net/qt77z/2/light/
 
 #### Clearfix
