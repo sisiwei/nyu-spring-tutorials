@@ -1,4 +1,4 @@
-# Week 2 - Inspector, CSS and Layouts
+# Week 2 - Inspector, CSS and Boxes
 
 Quick announcement: I'm planning on splitting our time together in half. Roughly 2-3 hours of demos/new information, and roughly 1-2 hours of lab time on any interactive work you want to do in your studio classes. During the second half of our workshops we can go off in any direction pertaining to a project you're working on.
 
