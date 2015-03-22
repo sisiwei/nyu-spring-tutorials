@@ -55,9 +55,3 @@ Try to re-create any of these layouts from scratch, using your own name and cont
 - http://lenagroeger.com/
 - http://shancarter.com/
 - http://bost.ocks.org/mike/
-
-
-
-
-
-
