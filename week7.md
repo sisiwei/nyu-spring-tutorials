@@ -21,3 +21,11 @@ Sometimes organizations post their data online, but aren't willing to provide yo
 We'll be following along with parts of a web scraping course I've taught in the past that usually takes around 3 days, but we'll be going a little faster and skipping around.
 
 Full tutorial: [http://first-web-scraper.readthedocs.org/en/latest/](http://first-web-scraper.readthedocs.org/en/latest/)
+
+Example python:
+```
+urls = ["example.com", "sisiwei.com"]
+
+for url in urls:
+    print "<a href='" + url + "'></a>"
+```
