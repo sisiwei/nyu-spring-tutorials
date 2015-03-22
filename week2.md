@@ -70,13 +70,12 @@ For more information on the inspector:
         + Make an underline appear when you hover over a link. 
 
 ### Why the Internet is Made Out of Boxes
-
-    - Demo: http://sports.espn.go.com/espn/grantland/story/_/id/9175394/out-great-alone
-    - Exercise: Let's draw some boxes
-        * Pick any news website you'd like
-        * Print it out
-        * Physically draw the boxes on top
-    - On the CSS Box Model: [Box Model Ninja](http://codewithme.us/exercises/box-model-ninja.html)
+- Demo: http://sports.espn.go.com/espn/grantland/story/_/id/9175394/out-great-alone
+- Exercise: Let's draw some boxes
+    * Pick any news website you'd like
+    * Print it out
+    * Physically draw the boxes on top
+- On the CSS Box Model: [Box Model Ninja](http://codewithme.us/exercises/box-model-ninja.html)
 
 
 
