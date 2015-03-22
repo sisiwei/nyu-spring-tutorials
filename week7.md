@@ -13,6 +13,8 @@ Try to re-create any of these layouts from scratch, using your own name and cont
 - http://shancarter.com/
 - http://bost.ocks.org/mike/
 
+Here's what I did in class for Mike's: [mikebostock.html](mikebostock.html)
+
 ### Web Scraping
 Sometimes organizations post their data online, but aren't willing to provide you with a downloadable version. If you really want the data for analysis, then the next step is to see if you can "scrape" the data yourself.
 
