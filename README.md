@@ -16,7 +16,7 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 | __March 8__ | __No Session__ |
 | __March 15__ | __No Session__ |
 | March 22 | [CSS Layout, Web Scraping](week7.md) |
-| March 29 | TBD |
+| March 29 | [Web Scraping](week8.md) |
 | April 5 | TBD |
 | __April 12__ | __No Session__ |
 | April 19 | TBD |
