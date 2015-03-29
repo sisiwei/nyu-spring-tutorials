@@ -26,6 +26,6 @@ Many reasons, including...
 
 Python basics refresher, which we did last session: [Getting started with Python](https://github.com/ireapps/first-web-scraper/blob/v1.0.0/notes/python-basics.md)
 
-The full scraper you should have by the end of the day: [jailscrape.py](https://github.com/ireapps/first-web-scraper/blob/v1.0.0/scrapers/crime/jailscrape.py)
+The full scraper you should have by the end of the day: [jailscrape.py](jailscrape.py)
 
 Again, the full tutorial: [http://first-web-scraper.readthedocs.org/en/latest/](http://first-web-scraper.readthedocs.org/en/latest/)
