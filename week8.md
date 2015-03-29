@@ -1,4 +1,4 @@
-# Week 7 - Web Scraping
+# Week 8 - Web Scraping
 Being able to scrape a website also means that you are able to recognize how web sites are built.
 
 ### How Does a Webscraper Work?
