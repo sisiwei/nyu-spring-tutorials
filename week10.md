@@ -6,4 +6,6 @@
 
 ## Today's Session
 
-<script src="https://gist.github.com/anonymous/2f6595f1a4c2e3bdf789.js"></script>
+Codepen version: http://codepen.io/anon/pen/PqYRqo?editors=011
+
+Gist version (just see the code): https://gist.github.com/anonymous/2f6595f1a4c2e3bdf789
