@@ -19,7 +19,7 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 | March 29 | [Web Scraping](week8.md) |
 | April 5 | Plan Video Project |
 | __April 12__ | __No Session__ |
-| April 19 | Using APIs |
+| April 19 | [Using APIs](week10.md) |
 | April 26 | TBD |
 | May 3 | TBD |
 
