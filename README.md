@@ -20,7 +20,7 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 | April 5 | Plan Video Project |
 | __April 12__ | __No Session__ |
 | April 19 | [Using APIs](week10.md) |
-| April 26 | TBD |
+| April 26 | [Responsive CSS](week11.md) |
 | May 3 | TBD |
 
 ## License
