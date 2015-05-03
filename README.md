@@ -21,7 +21,7 @@ Topics will be selected week-by-week, based entirely on student interest. [Poten
 | __April 12__ | __No Session__ |
 | April 19 | [Using APIs](week10.md) |
 | April 26 | [Responsive CSS](week11.md) |
-| May 3 | TBD |
+| May 3 | Work on Final Video Project Site / Data Projects |
 
 ## License
 Course materials are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
