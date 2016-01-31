@@ -4,8 +4,12 @@ New York University, Studio 20
 <br/>20 Cooper Square, Room 654
 <br/>Wednesdays, 6:00-10:00 p.m.
 
-## Class Schedule
-Topics will be selected week-by-week, based entirely on student interest. [Potential topic list](https://docs.google.com/a/nyu.edu/document/d/1rzZyDscN-asYUY91dQeHWsxNwRY7QWRAleoN871I5JY/edit?usp=sharing).
+## Workshop Structure
+6-8 p.m. Hands-on Demos and Workshops
+8-10 p.m. Free worktime and advanced demos
+
+## Schedule
+Topics will be selected week-by-week, based entirely on student interest.
 
 | Session | Tutorial |
 | --- | --- |
