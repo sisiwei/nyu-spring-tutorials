@@ -5,15 +5,17 @@ New York University, Studio 20
 <br/>Wednesdays, 6:00-10:00 p.m.
 
 ## Workshop Structure
+In general, I'll try to follow this structure, though some demos earlier in the semester may take longer.
+
 6-8 p.m. Hands-on Demos and Workshops
-8-10 p.m. Free worktime and advanced demos
+<br/>8-10 p.m. Free worktime and advanced demos
 
 ## Schedule
 Topics will be selected week-by-week, based entirely on student interest.
 
 | Session | Tutorial |
 | --- | --- |
-| Feb. 10 | Week 1 -  |
+| Feb. 10 | [Introduction to Programming, Github and the Command Line](week1.md) |
 | Feb. 17 | TBD |
 | Feb. 24 | TBD |
 | March 2 | TBD |
