@@ -7,6 +7,9 @@ We might not get through everything, but we'll get as far as we can.
 * How to publish up a website you made from scratch using Github pages
 * How to follow the same workflow as professional developers when coding (and why they do things this way)
 
+### If You Know Github and the Command Line Already...
+* Come up with a project that you'd like to work on for the next 2-3 weeks. Could be something that works well with your other classes. Should definitely be something you don't already know how to do, and I'll guide you through it.
+
 ## Today's Session
 
 ### Installs and Account Creation
