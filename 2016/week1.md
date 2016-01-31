@@ -1,4 +1,4 @@
-# Week 1 - Introduction, Github and the Command Line
+# Week 1 - Introduction, Github, Command Line
 We might not get through everything, but we'll get as far as we can.
 
 ### What You'll Learn
@@ -44,7 +44,7 @@ __What is Github?__
 __Who uses it?__
 - [NYTimes](https://github.com/nytimes/)
 - [Washington Post](https://github.com/washingtonpost)
-- [Propublica](https://github.com/propublica)
+- [ProPublica](https://github.com/propublica)
 - [Quartz](https://github.com/quartz)
 - [WNYC](https://github.com/wnyc)
 
