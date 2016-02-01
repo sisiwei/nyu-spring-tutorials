@@ -25,7 +25,7 @@ Topics will be selected week-by-week, based entirely on student interest.
 | March 30 | TBD |
 | April 6 | TBD |
 | April 13 | TBD |
-| April 20 | TBD |
+| April 20 | Guest Speaker |
 | April 27 | TBD |
 | __May 4__ | __No Session__ |
 
