@@ -40,6 +40,7 @@ Topics will be selected week-by-week, based entirely on student interest.
 - Creating your own blog/editing blogs in Wordpress
 - How to use tech to find out more about users want
 - Algorithms
+- Building iPhone apps
 
 ## License
 Course materials are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
