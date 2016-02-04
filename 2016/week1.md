@@ -75,7 +75,7 @@ What else is possible? [Github's excellent cheatsheet](https://training.github.c
 
 ### Command Line Basics
 
-But before we try any of these commands themselves, we need to know some [Command line basics](tutorials/command-line-basics.md).
+But before we try any of these commands themselves, we need to know some [Command line basics](https://github.com/sisiwei/nyu-spring-tutorials/blob/master/2015/tutorials/command-line-basics.md).
 
 <table>
     <tr>
