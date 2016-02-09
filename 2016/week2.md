@@ -23,14 +23,14 @@ Concepts:
 * What happens if you forget to close a tag
 
 Basic HTML tags:
-* <html>
-* <head>
-* <body>
-* <title>
-* <h1>
-* <p>
-* <img>
-* <a>
+* `<html>`
+* `<head>`
+* `<body>`
+* `<title>`
+* `<h1>`
+* `<p>`
+* `<img>`
+* `<a>`
 
 Basic HTML template:
 ```
@@ -47,13 +47,13 @@ Basic HTML template:
 
 Practice:
 * Create a basic HTML file and use the following tags:
-  * <h1>
-  * <h2>
-  * <h3>
-  * <p>
-  * <img>
-  * <a>
-  * <ul>
+  * `<h1>`
+  * `<h2>`
+  * `<h3>`
+  * `<p>`
+  * `<img>`
+  * `<a>`
+  * `<ul>`
   * Comments
 
 Exercise:
