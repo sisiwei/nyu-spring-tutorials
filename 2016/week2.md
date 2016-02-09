@@ -33,7 +33,7 @@ Basic HTML tags:
 * `<a>`
 
 Basic HTML template:
-```
+```html
 <html>
   <head>
     <title></title>
@@ -42,7 +42,6 @@ Basic HTML template:
     Hello there!
   </body>
 </html>
-
 ```
 
 Practice:
