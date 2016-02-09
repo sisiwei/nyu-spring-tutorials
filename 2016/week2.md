@@ -32,7 +32,7 @@ Basic HTML tags:
 * `<img>`
 * `<a>`
 * `<ul>`
-* '<!-- Comments -->'
+* `<!-- Comments -->`
 
 Basic HTML template:
 ```html
@@ -55,7 +55,7 @@ Exercise:
   * `<img>`
   * `<a>`
   * `<ul>`
-  * '<!-- Comments -->'
+  * `<!-- Comments -->`
 * Go to this JSFiddle and follow the instructions to format the page: https://jsfiddle.net/kJHdt/86/
 * Something's wrong with this code. Can you fix it? https://jsfiddle.net/dVYtK/20/
 
