@@ -1,4 +1,4 @@
-# Week 1 - HTML/CSS
+# Week 2 - HTML/CSS
 
 ### What You'll Learn
 * Where to write code
