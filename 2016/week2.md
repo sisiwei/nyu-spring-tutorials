@@ -31,6 +31,8 @@ Basic HTML tags:
 * `<p>`
 * `<img>`
 * `<a>`
+* `<ul>`
+* '<!-- Comments -->'
 
 Basic HTML template:
 ```html
@@ -44,7 +46,7 @@ Basic HTML template:
 </html>
 ```
 
-Practice:
+Exercise:
 * Create a basic HTML file and use the following tags:
   * `<h1>`
   * `<h2>`
@@ -53,9 +55,7 @@ Practice:
   * `<img>`
   * `<a>`
   * `<ul>`
-  * Comments
-
-Exercise:
+  * '<!-- Comments -->'
 * Go to this JSFiddle and follow the instructions to format the page: https://jsfiddle.net/kJHdt/86/
 * Something's wrong with this code. Can you fix it? https://jsfiddle.net/dVYtK/20/
 
