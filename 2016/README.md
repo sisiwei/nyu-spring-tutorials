@@ -17,7 +17,7 @@ Topics will be selected week-by-week, based entirely on student interest.
 | --- | --- |
 | Feb. 10 | [Introduction to Programming, Github and the Command Line](week1.md) |
 | Feb. 17 | [HTML/CSS](week2.md) |
-| Feb. 24 | TBD |
+| Feb. 24 | [Inspector, More CSS and Boxes](week3.md) |
 | March 2 | TBD |
 | __March 9__ | __No Session__ |
 | __March 16__ | __Spring Break - No Session__ |
