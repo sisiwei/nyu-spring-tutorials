@@ -27,6 +27,8 @@ Let's start with a demo using our [CIA example from two weeks ago](http://codepe
 - Float the image, with a new caption, to the right.
 - What if I want the image and caption to have a nice border, padding, and margin?
 
+Exercise: Here's a [clean copy of the CIA example](http://codepen.io/sisiwei/pen/YwmLQY?editors=1100). Try doing the same thing without looking at my code.
+
 <!-- In-class demos: [Just floats](http://codepen.io/anon/pen/Byxzzx) and [Cymbols](http://codepen.io/anon/pen/gbzMLv). -->
 
 #### Clearfix
@@ -57,8 +59,6 @@ Once you add this to your CSS, you can just add the class "cf" to any element th
 </div>
 ```
 
-Exercise: http://codepen.io/sisiwei/pen/OMKZNE?editors=1000
-
 ### Layout
 
 When we want to get more complicated with layouts, we are able to really get in the weeds.
@@ -66,6 +66,8 @@ When we want to get more complicated with layouts, we are able to really get in 
 For example, let's say we want to label [different parts of an image](http://codepen.io/sisiwei/pen/yemjMB?editors=1100). How can we tell the labels to be in the right place?
 
 We'll cover: `position: absolute` and `position: relative` and how they relate to each other.
+
+Exercise: http://codepen.io/sisiwei/pen/OMKZNE?editors=1000
 
 #### Extra things
 
