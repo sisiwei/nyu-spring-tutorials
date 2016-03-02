@@ -19,14 +19,14 @@ Topics will be selected week-by-week, based entirely on student interest.
 | Feb. 10 | [HTML/CSS](week2.md) |
 | Feb. 17 | [Inspector, More CSS and Boxes](week3.md) |
 | Feb. 24 | [CSS Floats and Layouts](week4.md) |
-| March 2 | TBD |
+| March 2 | [Practice Making Websites, A Little Javascript](week5.md) |
 | __March 9__ | __No Session__ |
 | __March 16__ | __Spring Break - No Session__ |
 | March 23 | TBD |
 | March 30 | TBD |
 | April 6 | TBD |
 | April 13 | TBD |
-| April 20 | Guest Speaker |
+| April 20 | __No Session__ |
 | April 27 | TBD |
 
 ## Potential Topics
