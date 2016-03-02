@@ -25,7 +25,7 @@ First, we'll talk about what types of actions Javascript is capable of, includin
 
 In order to include Javascript on your HTML pages, you need to link to them, just like you need to link to CSS files. To link to an external javascript file:
 
-```
+```html
 <html>
 	<head>
 		<script src="script-file-name-here.js"></script>
@@ -36,7 +36,7 @@ In order to include Javascript on your HTML pages, you need to link to them, jus
 
 Similar to CSS, you can also write Javascript within your HTML page, but using the tags:
 
-```
+```html
 <html>
 	<head>
 		<script type="text/javascript">
