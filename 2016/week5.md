@@ -54,3 +54,7 @@ In order to use Javascript libraries, you can download them into your project an
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 ```
+
+Now let's get down to actually writing some Javascript ourselves. Make a new Codepen. We'll go through:
+* How to add Javascript libraries to CodePen specifically
+* How to use jQuery to create, change, and remove HTML and CSS
