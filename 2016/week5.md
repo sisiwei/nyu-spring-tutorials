@@ -58,3 +58,5 @@ In order to use Javascript libraries, you can download them into your project an
 Now let's get down to actually writing some Javascript ourselves. Make a new Codepen. We'll go through:
 * How to add Javascript libraries to CodePen specifically
 * How to use jQuery to create, change, and remove HTML and CSS
+
+[Our puppies Codepen.](http://codepen.io/sisiwei/pen/XdbzwE)
