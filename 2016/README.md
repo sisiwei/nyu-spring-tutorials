@@ -22,7 +22,7 @@ Topics will be selected week-by-week, based entirely on student interest.
 | March 2 | [Practice Making Websites, A Little Javascript](week5.md) |
 | __March 9__ | __No Session__ |
 | __March 16__ | __Spring Break - No Session__ |
-| March 23 | __Emergency No Session__ |
+| March 23 | Emergency No Session |
 | March 30 | Work on Projects, +1 Guest Instructor: Mike Tigas |
 | April 6 | Work on Projects |
 | April 13 | Work on Projects, +1 Guest Speaker: Lena Groeger |
