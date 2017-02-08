@@ -18,7 +18,7 @@ Topics will be selected week-by-week, based entirely on student interest.
 | Session | Tutorial |
 | --- | --- |
 | Feb. 1 | [Intro to Code, Git and GitHub, and the Command Line](week1.md) |
-| Feb. 8 | TBD |
+| Feb. 8 | [Putting Things on the Internet, HTML, the Web Inspector](week2.md) |
 | Feb. 15 | TBD |
 | Feb. 22 | TBD |
 | **March 1** | **No Session** |
