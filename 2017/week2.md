@@ -62,6 +62,13 @@ The part above the `=======` are the changes that others made to this section. Y
 
 Then, it's Commit and Sync (as in the bullet points above).
 
+---
+
+Nice collaboration things:
+
+From the repo page https://github.com/mtigas/week2-collab/ you can get to a log of all the changes by going to "Commits" on the left side (it has a number in front of it, i.e. "51 Commits").
+
+From within a file (like, click on "index.html" from [the repo page](https://github.com/mtigas/week2-collab/)) you can see a line-by-line view of who did what. [This view](https://github.com/mtigas/week2-collab/blame/master/index.html) is appropriately called "blame".
 
 ### Other ways to publish your HTML on the web
 
