@@ -70,6 +70,8 @@ From the repo page https://github.com/mtigas/week2-collab/ you can get to a log 
 
 From within a file (like, click on "index.html" from [the repo page](https://github.com/mtigas/week2-collab/)) you can see a line-by-line view of who did what. [This view](https://github.com/mtigas/week2-collab/blame/master/index.html) is appropriately called "blame".
 
+(Note: if someone deleted some lines, it won't show up in blame. That change will only show up in the log — but you'll see what was deleted in case you want to copy it back in.)
+
 ### Other ways to publish your HTML on the web
 
 * FTP, SFTP, SCP
