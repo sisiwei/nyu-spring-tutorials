@@ -26,6 +26,43 @@ We're going to use GitHub Pages https://pages.github.com/ to put some HTML pages
 * In the "GitHub Pages" section, see the "Source" dropdown. Set it to `master branch` and hit save.
 * Refresh the settings page until the GitHub Pages section says "Your site is published at _link_"
 
+#### More GitHub Pages
+Try doing this with the HTML project you did in Zoe's class. (Make sure your `index.html` and `images` folders are in the top folder of the repo!)
+
+#### Collaborating in GitHub Pages (Committing & Solving Merge Conflicts)
+
+I've given you access to modify the following repo:  
+https://github.com/mtigas/week2-collab
+
+Use the "Clone or Download" button and use "Open In Desktop" to open the project in the GitHub Desktop app. This makes a copy of the project on your computer.
+
+Right click on `week2-collab` in GitHub Desktop and choose "Open In Finder" ("Open In Explorer" on Windows).
+
+* Edit the `index.html` file and save your changes.
+* In GitHub Desktop, commit your changes. (It's in the "Changes" or "Uncommitted Changes" tab. You'll need to type in a Summary.)
+* In GitHub Desktop, press the "Sync" button in the upper-right.
+
+If someone else has changed `index.html` and sync'd before you got a chance to, you might get an error — a "merge conflict". You have to edit `index.html` again to try to clean it up. Look for lines like this:
+
+```
+<<<<<<< HEAD
+  <body background="images/1.jpg">
+=======
+  <body background="images/omgcats.jpg">
+>>>>>>> origin/master
+```
+
+This means you've changed the same section of code as somebody else.
+
+The part above the `=======` are the changes that others made to this section. Your changes are below the `=======`. You'll want to clean it up to remove all the lines starting with `<<<<<<<` or `>>>>>>>`, and the `=======` -- it's up to you to manually edit this code to be "clean". In this example, I'll just replace that whole mess with this:
+
+```
+  <body background="images/omgcats.jpg">
+```
+
+Then, it's Commit and Sync (as in the bullet points above).
+
+
 ### Other ways to publish your HTML on the web
 
 * FTP, SFTP, SCP
