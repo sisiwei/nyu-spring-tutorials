@@ -34,6 +34,8 @@ Try doing this with the HTML project you did in Zoe's class. (Make sure your `in
 I've given you access to modify the following repo:  
 https://github.com/mtigas/week2-collab
 
+(The repo publishes pages to this link: https://mtigas.github.io/week2-collab/ )
+
 Use the "Clone or Download" button and use "Open In Desktop" to open the project in the GitHub Desktop app. This makes a copy of the project on your computer.
 
 Right click on `week2-collab` in GitHub Desktop and choose "Open In Finder" ("Open In Explorer" on Windows).
