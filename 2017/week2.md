@@ -29,7 +29,7 @@ We're going to use GitHub Pages https://pages.github.com/ to put some HTML pages
 #### More GitHub Pages
 Try doing this with the HTML project you did in Zoe's class. (Make sure your `index.html` and `images` folders are in the top folder of the repo!)
 
-#### Collaborating in GitHub Pages (Committing & Solving Merge Conflicts)
+#### Even More: Collaborating in GitHub Pages (Committing & Solving Merge Conflicts)
 
 I've given you access to modify the following repo:  
 https://github.com/mtigas/week2-collab
