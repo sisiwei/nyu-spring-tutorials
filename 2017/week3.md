@@ -81,11 +81,11 @@ CSS has a special feature called "[https://www.w3schools.com/cssref/css3_pr_medi
 ```css
 .my_box {
   width: 450px;
-  padding: 10px;
+  margin: 10px;
 }
 @media screen and (max-width: 480px) {
   .my_box {
-    width: 100%;
+    width: 95%;
   }
 }
 ```
@@ -94,21 +94,21 @@ In the above code, a `<div class="my_box"></div>` will behave like this:
 
 On the desktop (or a tablet, or any screen bigger than 480px):
 * Width will be 450px.
-* Padding will be 10px.
+* Margin will be 10px.
 
 On screen sizes smaller than 480px:
 * Width will be the full width of the screen or window
-* Padding will _still be_ 10px.
+* Margin will _still be_ 10px.
 
-(Why does the padding stay at 10px? Any CSS that isn't inside `@media` happens to _all screen sizes_. But the order matters: CSS you set later in the file will override CSS set earlier. If you go to the inspector, inspect the div, and look at the "Styles" tab, you'll see what rules get overridden by other CSS — they show up as crossed-out.)
-
-
+(Why does the margin stay at 10px? Any CSS that isn't inside `@media` happens to _all screen sizes_. But the order matters: CSS you set later in the file will override CSS set earlier. If you go to the inspector, inspect the div, and look at the "Styles" tab, you'll see what rules get overridden by other CSS — they show up as crossed-out.)
 
 To use this, you first have to add the following within the `<head></head>` section of your HTML file — it tells mobile browsers not to show a "zoomed out" version of the desktop view.
 
 ```html
 <meta name="viewport" content="width=device-width" />
 ```
+
+https://jsfiddle.net/mtigas/ss8s39sL/
 
 ---
 
