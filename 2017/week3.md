@@ -127,7 +127,7 @@ Some web data visualization is possible without anything more than plain HTML/CS
 
 ### Google Charts and a peek at JavaScript
 
-This might be a little overwhelming, but let's
+Let's look at one way to make interactive visualizations using Javascript. (It'll be a little confusing since y'all haven't gotten to Javascript yet, but I'll walk you through the broad strokes and we'll come back to this in a week or two.)
 
 https://developers.google.com/chart/
 
