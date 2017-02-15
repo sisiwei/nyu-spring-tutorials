@@ -7,24 +7,68 @@
 
 ### HTML/CSS: Page Layout and Mobile Layout
 
-Box model
-Block tags vs inline tags
+**Block tags vs inline tags in HTML**
 
-CSS properties of boxes:
-* width / height
-* border
-* padding
-* margin
-* float
+Tags like `<div>` `<p>` `<h1>` `<h2>` are "blocks", which always start a new line and fill up the width of whatever container they're in (unless you give it a width).
 
-Using the inspector, let's look at the layout of some web pages:
+* Example: https://jsfiddle.net/mtigas/018xp9hn/2/  
+  * _Instead of filling the width of the page, the `<div>` is 300px wide, and the `<p>` tags become 300px wide._
+
+Tags like `<span>` `<em>` `<strong>` `<i>` `<b>` `<a>` `<img>` are "inline" tags, which don't start a new line and don't fill the width of the space they're in.
+
+* Example: https://jsfiddle.net/mtigas/gg9a0dp7/1/
+
+---
+
+**The Box Model**
+
+Block tags are just boxes! In CSS, they've got the following properties:
+* `width` / `height`
+* `border`
+* `margin`
+* `padding`
+* `float`
+
+Some examples:
+
+https://jsfiddle.net/mtigas/1199n2kc/1/
+* `width` and `height` are basically "how much space does the content inside get?"
+* `margin`: "I need to leave some space in the room that I'm given"
+* `padding`: "the content inside here needs some space"
+
+https://jsfiddle.net/mtigas/22tm3Lok/1/
+* Remember that block tags always flow down to a new line!
+
+This is where `float` comes in  
+https://jsfiddle.net/mtigas/22tm3Lok/2/
+
+
+One last thing: "clearing" floats.  
+https://jsfiddle.net/mtigas/22tm3Lok/3/
+
+You can use the `clear: left;` property to say "ignore the most recent left float, I want this block tag to go down to a new line".  
+https://jsfiddle.net/mtigas/22tm3Lok/4/
+
+
+Real uses for floats:
+* "Inset" content in articles
+  * https://jsfiddle.net/mtigas/0r220L8b/
+  * https://jsfiddle.net/mtigas/0r220L8b/1/
+*
+
+---
+
+Using the inspector, let's look at the layout of some web pages and see how the box model comes together:
 * https://www.propublica.org/
 * https://www.propublica.org/article/the-demolition-of-workers-compensation
 * http://www.nytimes.com/interactive/2012/07/20/us/drought-footprint.html
 
 Layout exercise
 * Copy all the HTML from [here](https://codepen.io/sisiwei/pen/OMKZNE?editors=1000). Open your code editor, paste this into a new blank file, and save it as an HTML file on your computer (like `week3.html`).
-* https://projects.propublica.org/graphics/images/data-institute/presentations/drought.png
+* Write some CSS that makes it look like this:  
+  https://projects.propublica.org/graphics/images/data-institute/presentations/drought.png
+* Alternatively, you can work in here https://jsfiddle.net/mtigas/ca2hh4s9/ and make changes and press "Run" to see your changes.
+
 ---
 
 Using the inspector, let's look at a few sites in normal view and in mobile view
@@ -48,39 +92,11 @@ In the above code, a `<div class="my_box"></div>` will have a width of 300px and
 
 (A: Width 100% and padding of 10px. Any CSS that isn't inside `@media` gets set for all screen types. But the order matters: CSS you set later in the file will override CSS set earlier.)
 
-But first, you have to tell the web browser that it should
+You _might_ have to add this within your `<head></head>` to tell a mobile browser to use the right zoom:
 
 ```html
 <meta name="viewport" content="width=device-width" />
 ```
-
-
----
-
-**Bonus:** There are other uses of `@media` queries, too.
-
-_Print stylesheets_  
-View [this article](https://www.propublica.org/article/trump-told-new-york-city-net-worth-lower-than-what-he-said-publicly) and check out the print preview. It works something like this:
-```css
-@media print {
-  .header, .sidebar {
-    display: none;
-  }
-}
-```
-
-_Special rules for high-res "retina" screens_
-```css
-.header {
-  background-image: url(images/normal.jpg);
-}
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-  .header {
-    background-image: url(images/highres.jpg);
-  }
-}
-```
-(Unfortunately, you can't use this to swap out `<img src="...">` images easily.)
 
 ---
 
@@ -90,6 +106,18 @@ _Special rules for high-res "retina" screens_
 
 Some web data visualization is possible without anything more than plain HTML/CSS
 * https://projects.propublica.org/nonprofits/organizations/135562308
+  * Using percent-width (`width: 50%;`) to draw bars
+  * Using opacity `opacity: 50%;`
+  * Using font sizes
+* https://jsfiddle.net/mtigas/bmf8oLtt/
+
+---
+
+### Google Charts and a peek at JavaScript
+
+This might be a little overwhelming, but let's
+
+https://developers.google.com/chart/
 
 ---
 

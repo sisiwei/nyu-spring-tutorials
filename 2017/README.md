@@ -16,19 +16,19 @@ As the semester goes on, more and more of the session time will be devoted to wo
 Topics will be selected week-by-week, based entirely on student interest.
 
 | Session | Tutorial |
-| --- | --- |
-| Feb. 1 | [Intro to Code, Git and GitHub, and the Command Line](week1.md) |
-| Feb. 8 | [Putting Things on the Internet, HTML, the Web Inspector](week2.md) |
-| Feb. 15 | HTML/CSS Page Layout & Mobile Layout; Basic Data Visualization |
-| Feb. 22 | TBD |
-| **March 1** | **No Session** |
-| March 8 | TBD |
+| ---     | --- |
+| Feb. 1       | [Intro to Code, Git and GitHub, and the Command Line](week1.md) |
+| Feb. 8       | [Putting Things on the Internet, HTML, the Web Inspector](week2.md) |
+| Feb. 15      | [HTML/CSS Page Layout & Mobile Layout; Basic Data Visualization](week3.md) |
+| Feb. 22      | _Javascript, jQuery_ |
+| **March 1**  | **No Session** |
+| March 8      | _Digital Security, Guest Speaker (TBD)_ |
 | **March 15** | **Spring Break - No Session** |
-| March 22 | TBD |
-| March 29 | TBD |
-| April 5 | TBD |
-| April 12 | TBD |
-| April 19 | TBD |
+| March 22     | _TBD_ |
+| March 29     | _TBD_ |
+| April 5      | _TBD_ |
+| April 12     | _TBD_ |
+| April 19     | _TBD_ |
 
 ## Potential Topics
 
@@ -40,6 +40,8 @@ Topics will be selected week-by-week, based entirely on student interest.
 - deconstructing existing projects and interactives
   - talking about what technologies make them tick
 - crowdsourcing / data mining, how it enhances storytelling
+- domain names & web hosting (_maybe go over this for final projects?_)
+
 
 ## License
 Course materials are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
