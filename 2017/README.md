@@ -20,9 +20,9 @@ Topics will be selected week-by-week, based entirely on student interest.
 | Feb. 1       | [Intro to Code, Git and GitHub, and the Command Line](week1.md) |
 | Feb. 8       | [Putting Things on the Internet, HTML, the Web Inspector](week2.md) |
 | Feb. 15      | [HTML/CSS Page Layout & Mobile Layout; Basic Data Visualization](week3.md) |
-| Feb. 22      | _Javascript, jQuery_ |
+| Feb. 22      | _TBD_ |
 | **March 1**  | **No Session** |
-| March 8      | _Digital Security, Guest Speaker (TBD)_ |
+| March 8      | _TBD_ |
 | **March 15** | **Spring Break - No Session** |
 | March 22     | _TBD_ |
 | March 29     | _TBD_ |
