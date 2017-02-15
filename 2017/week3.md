@@ -5,7 +5,7 @@
 
 ---
 
-### HTML/CSS: Page Layout and Mobile Layout
+### HTML/CSS: Page Layout
 
 **Block tags vs inline tags in HTML**
 
@@ -71,6 +71,8 @@ Layout exercise
 
 ---
 
+### HTML/CSS: Mobile CSS
+
 Using the inspector, let's look at a few sites in normal view and in mobile view
 * https://projects.propublica.org/nonprofits/organizations/135562308
 
@@ -78,7 +80,7 @@ CSS has a special feature called "[https://www.w3schools.com/cssref/css3_pr_medi
 
 ```css
 .my_box {
-  width: 300px;
+  width: 450px;
   padding: 10px;
 }
 @media screen and (max-width: 480px) {
@@ -88,11 +90,21 @@ CSS has a special feature called "[https://www.w3schools.com/cssref/css3_pr_medi
 }
 ```
 
-In the above code, a `<div class="my_box"></div>` will have a width of 300px and a padding of 10px on a tablet or desktop view. What properties will it have on a mobile device?
+In the above code, a `<div class="my_box"></div>` will behave like this:
 
-(A: Width 100% and padding of 10px. Any CSS that isn't inside `@media` gets set for all screen types. But the order matters: CSS you set later in the file will override CSS set earlier.)
+On the desktop (or a tablet, or any screen bigger than 480px):
+* Width will be 450px.
+* Padding will be 10px.
 
-You _might_ have to add this within your `<head></head>` to tell a mobile browser to use the right zoom:
+On screen sizes smaller than 480px:
+* Width will be the full width of the screen or window
+* Padding will _still be_ 10px.
+
+(Why does the padding stay at 10px? Any CSS that isn't inside `@media` happens to _all screen sizes_. But the order matters: CSS you set later in the file will override CSS set earlier. If you go to the inspector, inspect the div, and look at the "Styles" tab, you'll see what rules get overridden by other CSS — they show up as crossed-out.)
+
+
+
+To use this, you first have to add the following within the `<head></head>` section of your HTML file — it tells mobile browsers not to show a "zoomed out" version of the desktop view.
 
 ```html
 <meta name="viewport" content="width=device-width" />
