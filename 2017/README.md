@@ -22,7 +22,7 @@ Topics will be selected week-by-week, based entirely on student interest.
 | Feb. 15      | [HTML/CSS Page Layout & Mobile Layout; Basic Data Visualization](week3.md) |
 | Feb. 22      | [Digital Security; Project Pitches](week4.md) |
 | **March 1**  | **No Session** |
-| March 8      | _TBD_ |
+| March 8      | _TBD (Possibly: Intro to Data, Data Visualization with Javascript)_ |
 | **March 15** | **Spring Break - No Session** |
 | March 22     | _TBD_ |
 | March 29     | _TBD_ |

@@ -17,28 +17,43 @@ https://cdn.tig.as/files/20170222/20170222-nyu.pdf
 Some links to tools (though slides also have lots of links)
 
 * Password managers
+  * _Don't use the same password everywhere! Sites get hacked all the time._
   * 1Password: https://agilebits.com/onepassword
   * LastPass: https://lastpass.com/
   * Dashlane: https://dashlane.com/
   * iCloud Keychain (in Mac and iOS, built into your Safari browser)
 * Use two-factor authentication:
-  * https://www.google.com/landing/2step/
-
+  * https://www.turnon2fa.com/tutorials/
 
 *  Full disk encryption:
+  * _Keeps data safe if your computer is turned off._
   * Windows BitLocker: http://windows.microsoft.com/en-US/windows7/products/features/bitlocker
   * Mac OS X FileVault: http://support.apple.com/en-us/HT4790
     * How-to: https://www.youtube.com/watch?v=pm9_ozRr_n8
 
+* VPNs
+  * _Helps secure your connection when you're on open wifi_
+  * _Hides your actual IP address; site sees IP address of your VPN provider (see [this story](https://www.cyberscoop.com/new-york-times-journalist-exposed-ip-address-tipped-off-major-investigation/)_
+  * NYU VPN
+    * http://www.nyu.edu/life/information-technology/getting-started/network-and-connectivity/vpn.html
+  * Commercial options:
+    * https://www.goldenfrog.com/vyprvpn
+    * https://www.tunnelbear.com/
+    * https://www.purevpn.com/
+
 * Anonymized web browsing with Tor:
-  * Tor Browser (PC/Mac): https://www.torproject.org/projects/torbrowser.html.en
-  * Onion Browser (iOS): https://mike.tig.as/onionbrowser/
-  * Orbot+Orfox (Android), you need both pieces:
-   * https://play.google.com/store/apps/details?id=org.torproject.android
-   * https://play.google.com/store/apps/details?id=info.guardianproject.orfox
+  * _Like VPNs, provides security and hides your IP address_
+  * _Unlike VPNs, Tor distributes your traffic to volunteer-run relay computers, so no single organization sees all your traffic._
+  * _Built-in censorship circumvention tools._
+  * Downloads:
+    * Tor Browser (PC/Mac): https://www.torproject.org/projects/torbrowser.html.en
+    * Onion Browser (iOS): https://mike.tig.as/onionbrowser/
+    * Orbot+Orfox (Android), you need both pieces:
+     * https://play.google.com/store/apps/details?id=org.torproject.android
+     * https://play.google.com/store/apps/details?id=info.guardianproject.orfox
 
 Communicating with others!
-  * _Your contact needs to have the tool, too._
+  * _For each of these tools, your contact needs to have the tool too. (They need the part that decodes your message!)_
   * Easy: Encrypted phone calls & texts with [Signal](https://whispersystems.org/)
     * iPhone: https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8
     * Android: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
@@ -46,6 +61,7 @@ Communicating with others!
     * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) + [Enigmail](https://www.enigmail.net/) (PC/Mac)
     * [GPG4Win](http://www.gpg4win.org/), for Windows + Outlook
     * [GPGTools](https://gpgtools.org/), for Mac Mail app
+    * [Mailvelope](https://www.mailvelope.com/en), a Chrome plugin that supports webmail. (Doesn't always work too well.)
 
 ---
 
