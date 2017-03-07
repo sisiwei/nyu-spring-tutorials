@@ -10,7 +10,7 @@ Most of the sessions will follow this structure:
 6-8 p.m. Workshops and hands-on demos  
 8-10 p.m. Free worktime, project-specific help, advanced demos
 
-As the semester goes on, more and more of the session time will be devoted to worktime and any specific questions you have.
+As the semester goes on, more and more of the session time will be devoted to worktime on projects, project-specific demos and training, and any specific questions you have.
 
 ## Workshop Schedule
 Topics will be selected week-by-week, based entirely on student interest.
@@ -22,13 +22,14 @@ Topics will be selected week-by-week, based entirely on student interest.
 | Feb. 15      | [HTML/CSS Page Layout & Mobile Layout; Basic Data Visualization](week3.md) |
 | Feb. 22      | [Digital Security; Project Pitches](week4.md) |
 | **March 1**  | **No Session** |
-| March 8      | _TBD (Possibly: Intro to Data, Data Visualization with Javascript)_ |
+| March 8      | JavaScript, Data Visualization; Work on Project Pitch Deck |
 | **March 15** | **Spring Break - No Session** |
-| March 22     | _TBD_ |
-| March 29     | _TBD_ |
-| April 5      | _TBD_ |
-| April 12     | _TBD_ |
-| April 19     | _TBD_ |
+| March 22     | Work on Project |
+| March 29     | Work on Project |
+| April 5      | Guest Speaker: Terry Parris Jr.; Work on Project |
+| April 12     | Work on Project |
+| April 19     | Work on Project |
+
 
 ## Potential Topics
 
