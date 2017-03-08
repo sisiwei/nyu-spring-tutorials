@@ -22,7 +22,7 @@ Topics will be selected week-by-week, based entirely on student interest.
 | Feb. 15      | [HTML/CSS Page Layout & Mobile Layout; Basic Data Visualization](week3.md) |
 | Feb. 22      | [Digital Security; Project Pitches](week4.md) |
 | **March 1**  | **No Session** |
-| March 8      | Data Concepts; Work on Project Pitch Deck |
+| March 8      | Work on Project |
 | **March 15** | **Spring Break - No Session** |
 | March 22     | _TBD_ |
 | March 29     | _TBD_ |
@@ -30,8 +30,13 @@ Topics will be selected week-by-week, based entirely on student interest.
 | April 12     | Work on Project |
 | April 19     | Work on Project |
 
+**Not yet scheduled:**
 
-## Potential Topics
+* A brief overview of data concepts, and things to watch out for when you're dealing with data. Like ["Data Smells"](https://github.com/nikeiubel/data-smells/wiki/Ensuring-Accuracy-in-Data-Journalism).
+* Practical Javascript: using jQuery and charting/mapping tools like Google Charts, Google Maps, CartoDB.
+* Possibly: motion graphics training workshop
+
+## Topic Brainstorming
 
 - front-end HTML/CSS
 - mobile
@@ -42,7 +47,6 @@ Topics will be selected week-by-week, based entirely on student interest.
   - talking about what technologies make them tick
 - crowdsourcing / data mining, how it enhances storytelling
 - domain names & web hosting (_maybe go over this for final projects?_)
-
 
 ## License
 Course materials are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
