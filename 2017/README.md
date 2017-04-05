@@ -22,19 +22,13 @@ Topics will be selected week-by-week, based entirely on student interest.
 | Feb. 15      | [HTML/CSS Page Layout & Mobile Layout; Basic Data Visualization](week3.md) |
 | Feb. 22      | [Digital Security; Project Pitches](week4.md) |
 | **March 1**  | **No Session** |
-| March 8      | Work on Project |
+| March 8      | Jekyll Framework, Project Layout & Workflow |
 | **March 15** | **Spring Break - No Session** |
-| March 22     | _TBD_ |
-| March 29     | _TBD_ |
+| March 22     | Work on Project |
+| March 29     | Work on Project |
 | April 5      | Guest Speaker: Terry Parris Jr.; Work on Project |
 | April 12     | Work on Project |
 | April 19     | Work on Project |
-
-**Not yet scheduled:**
-
-* A brief overview of data concepts, and things to watch out for when you're dealing with data. Like ["Data Smells"](https://github.com/nikeiubel/data-smells/wiki/Ensuring-Accuracy-in-Data-Journalism).
-* Practical Javascript: using jQuery and charting/mapping tools like Google Charts, Google Maps, CartoDB.
-* Possibly: motion graphics training workshop
 
 ## Topic Brainstorming
 
